@@ -1,0 +1,57 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.mainbox{
+	width: 80%;
+	height: 100vh;
+	background: blue;
+	margin: auto;
+	padding: 10px;
+}
+
+.header{
+	width: 95%;
+	height: 15%;
+	background: yellow;
+	margin:auto;
+	margin-top: 10px;
+}
+
+.menu{
+	width: 95%;
+	height: 10%;
+	background: yellowgreen;
+	margin:auto;
+	margin-top: 10px;
+}
+
+.duitabox{
+	width: 95%;
+	height: 60%;
+	background: #ffffff;
+	margin: auto;
+	margin-top: 10px;
+}
+
+.bamerbox{
+	width: 74%;
+	height: 100%;
+	background: yellow;
+	float: left;
+}
+
+.danerbox{
+	width: 24%;
+	height: 100%;
+	background: red;
+	float: right;
+}
+.footer{
+	width: 95%;
+	height: 10%;
+	background: yellowgreen;
+	margin:auto;
+	margin-top: 10px;
+}
